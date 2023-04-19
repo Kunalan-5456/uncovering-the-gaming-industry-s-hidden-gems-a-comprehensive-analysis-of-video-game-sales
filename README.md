@@ -5,3 +5,6 @@ dashboard public link - https://public.tableau.com/views/New_Dashboard_168079458
 
 
 story public link - https://public.tableau.com/views/New_Story/VGSalesstory?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+video demonstration link - https://drive.google.com/file/d/11f2bsd62lDIDUqrfrdXwvCA5kfwjXPKB/view?usp=drivesdk
